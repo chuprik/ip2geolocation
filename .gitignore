@@ -1,0 +1,12 @@
+*.swp
+ip2geolocation
+tmp/
+.tmp
+.vscode/
+.idea/
+
+.gitmodules
+docker-base
+.env
+GeoLite2*/
+Makefile
